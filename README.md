@@ -72,7 +72,7 @@ Simply add the following line to your `README.md` file:
 
 ### HTML
 ```html
-<img src="https://raw.githubusercontent.com/leogaudin/42-project-badges/main/badges/PROJECT_NAME.webp"/>
+<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/PROJECT_NAME.webp"/>
 ```
 ### Markdown
 ```md
