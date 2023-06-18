@@ -76,7 +76,7 @@ Simply add the following line to your `README.md` file:
 ```
 ### Markdown
 ```md
-![PROJECT_NAME](https://raw.githubusercontent.com/leogaudin/42-project-badges/main/badges/PROJECT_NAME.webp)
+![PROJECT_NAME](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/PROJECT_NAME.webp)
 ```
 
 > 💡 If you want to showcase a project that you completed with bonuses, simply append `_bonus` to `PROJECT_NAME`.
