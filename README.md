@@ -72,11 +72,11 @@ Simply add the following line to your `README.md` file:
 
 ### HTML
 ```html
-<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/PROJECT_NAME.webp"/>
+<img src="https://github.com/leogaudin/leogaudin/blob/main/42_project_badges/PROJECT_NAME.webp"/>
 ```
 ### Markdown
 ```md
-![PROJECT_NAME](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/PROJECT_NAME.webp)
+![PROJECT_NAME](https://github.com/leogaudin/leogaudin/blob/main/42_project_badges/PROJECT_NAME.webp)
 ```
 
 > 💡 If you want to showcase a project that you completed with bonuses, simply append `_bonus` to `PROJECT_NAME`.
