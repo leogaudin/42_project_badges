@@ -80,9 +80,13 @@ Simply add the following line to your `README.md` file:
 ![PROJECT_NAME](https://github.com/leogaudin/42_project_badges/raw/main/badges/PROJECT_NAME.webp)
 ```
 
-> 💡 If you want to showcase a project that you completed with bonuses, simply append `_bonus` to `PROJECT_NAME`.
+> 💡 Completed with bonuses: append `_bonus` to `PROJECT_NAME`.
 >
 > Example: `libft_bonus.webp`
+
+> 💡 Completed with bonuses **AND** the maximum grade: append `_bonus_max` to `PROJECT_NAME`.
+>
+> Example: `libft_bonus_max.webp`
 
 ## Available badges
 
